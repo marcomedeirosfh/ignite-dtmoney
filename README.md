@@ -13,7 +13,7 @@ A simple personal finances application built with React JS during the Rocketseat
 ![updatedDashboard](https://user-images.githubusercontent.com/33945119/119228315-5aa8a180-bb0a-11eb-9c6e-17ad91db1202.png)
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Installing
 Copy the repository to the desired folder with the following command:
