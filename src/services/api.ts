@@ -1,5 +1,7 @@
 import axios from 'axios'
 
-export const api = axios.create({
-  baseURL: 'http://localhost:3000/api',
-})
+const baseURL = process.env.REACT_APP_USE_MIRAGE 
+                ? '/api' 
+                : 'http://your-production-api-url.com/api';
+
+export const api = axios.create({ baseURL });
